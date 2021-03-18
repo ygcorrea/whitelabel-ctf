@@ -1,0 +1,20 @@
+{
+  "name": "landing-page-poc",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.2",
+    "core-js": "^3.8.3",
+    "nuxt": "^2.14.12",
+    "colorthief": "^2.3.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}
